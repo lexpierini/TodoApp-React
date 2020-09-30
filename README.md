@@ -1,6 +1,6 @@
 # TodoApp-React
 
 
-![Image1](Capture1.png)
+![Capture1](Capture1.png)
 
-![Image2](Capture2.png)
+![Capture1](Capture2.png)
